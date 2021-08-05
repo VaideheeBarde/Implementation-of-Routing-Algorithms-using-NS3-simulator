@@ -1,6 +1,8 @@
 # Implementation-of-Routing-Algorithms-using-NS3-simulator
 
 1.) Installation software - NS-3
+Programming languages used - C++, Python
+VM Node - Ubuntu
 
 2.) Simulation
 - DSDV routing algorithm
